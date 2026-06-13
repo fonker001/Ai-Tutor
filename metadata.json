@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Aegis Learning Platform",
+  "description": "An inclusive, personalized educational platform featuring dynamic learning paths, interactive quizzes, AI tutoring, a collaborative peer support forum, and robust offline learning capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
